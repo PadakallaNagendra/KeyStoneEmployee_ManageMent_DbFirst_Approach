@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyStoneEmployee_ManageMent_DbFirst_Approach", "KeyStoneEmployee_ManageMent_DbFirst_Approach\KeyStoneEmployee_ManageMent_DbFirst_Approach.csproj", "{BD9C6566-2B1B-43E9-8CEF-5634DD87B4FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyStoneEmployee_ManageMent_BusinessObject", "KeyStoneEmployee_ManageMent_BusinessObject\KeyStoneEmployee_ManageMent_BusinessObject.csproj", "{9CBE604A-FF4F-43A4-AE24-555E535E11AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyStoneEmployee_ManageMent_DataBaseLogic", "KeyStoneEmployee_ManageMent_DataBaseLogic\KeyStoneEmployee_ManageMent_DataBaseLogic.csproj", "{B2297FE9-D57F-4E78-912E-CD128F6F6826}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyStoneEmployee_ManageMent_RepositaryLayer", "KeyStoneEmployee_ManageMent_RepositaryLayer\KeyStoneEmployee_ManageMent_RepositaryLayer.csproj", "{EC7DEE19-5C7C-4FB8-A835-787133EBD50E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyStoneEmployee_ManageMent_ServiceLayer", "KeyStoneEmployee_ManageMent_ServiceLayer\KeyStoneEmployee_ManageMent_ServiceLayer.csproj", "{322C6A61-CBD3-4BC7-AE80-F74F9B0145A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD9C6566-2B1B-43E9-8CEF-5634DD87B4FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD9C6566-2B1B-43E9-8CEF-5634DD87B4FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD9C6566-2B1B-43E9-8CEF-5634DD87B4FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD9C6566-2B1B-43E9-8CEF-5634DD87B4FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CBE604A-FF4F-43A4-AE24-555E535E11AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CBE604A-FF4F-43A4-AE24-555E535E11AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CBE604A-FF4F-43A4-AE24-555E535E11AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CBE604A-FF4F-43A4-AE24-555E535E11AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2297FE9-D57F-4E78-912E-CD128F6F6826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2297FE9-D57F-4E78-912E-CD128F6F6826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2297FE9-D57F-4E78-912E-CD128F6F6826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2297FE9-D57F-4E78-912E-CD128F6F6826}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC7DEE19-5C7C-4FB8-A835-787133EBD50E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC7DEE19-5C7C-4FB8-A835-787133EBD50E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC7DEE19-5C7C-4FB8-A835-787133EBD50E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC7DEE19-5C7C-4FB8-A835-787133EBD50E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{322C6A61-CBD3-4BC7-AE80-F74F9B0145A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{322C6A61-CBD3-4BC7-AE80-F74F9B0145A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{322C6A61-CBD3-4BC7-AE80-F74F9B0145A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{322C6A61-CBD3-4BC7-AE80-F74F9B0145A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A04FC0A6-2815-459F-A657-B921BAC7E1FA}
+	EndGlobalSection
+EndGlobal

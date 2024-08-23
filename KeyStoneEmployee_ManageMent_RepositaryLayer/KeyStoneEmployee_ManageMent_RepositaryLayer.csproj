@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\KeyStoneEmployee_ManageMent_BusinessObject\KeyStoneEmployee_ManageMent_BusinessObject.csproj" />
+    <ProjectReference Include="..\KeyStoneEmployee_ManageMent_DataBaseLogic\KeyStoneEmployee_ManageMent_DataBaseLogic.csproj" />
+  </ItemGroup>
+
+</Project>
